@@ -17,30 +17,6 @@
 
 </div>
 
----
-
-## `01 / IDENTITY`
-
-```javascript
-const engineer = {
-  name: "Thoshith SV",
-  role: "Software Developer",
-  education: "Information Science & Engineering",
-  institution: "BMS Institute of Technology and Management",
-  graduation: 2027,
-  cgpa: "8.23 / 10.0",
-  interests: [
-    "AI-powered developer tools",
-    "Full-stack engineering",
-    "Systems programming",
-    "Network traffic analysis"
-  ],
-  philosophy: "Understand deeply. Engineer carefully. Ship useful things."
-};
-
-console.log("Building the future, one system at a time.");
-```
-
 I'm an engineering student who goes beyond writing code to build reliable and practical solutions. My interests span AI-assisted development, real-time communication, process lifecycle management, concurrent pipelines, and packet-level network analysis.
 
 ---
